@@ -1,0 +1,1 @@
+da una lista di tutti i lemmi dell italiano trova i lemmi che sembrano diminutivi ma non lo sono in modo da poterli escludere in mirco
